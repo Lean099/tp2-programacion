@@ -5,7 +5,7 @@ const Header = () => {
     <div>
         <nav class="navbar navbar-expand-lg" style={{background:"#E8DFCA"}}>
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Antony's</a>
+                <a class="navbar-brand" href="#"><span class="badge p-2 fs-5 text-bg-dark">Antony's</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
