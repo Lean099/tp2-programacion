@@ -2,7 +2,7 @@
 
 App web para ver y hacer pedidos de comida.
 
-![Pagina](![Pagina](public/preview.png) "Pagina")
+![Vista previa](public/preview.png)
 
 ### Integrantes:
 - Figueroa Umaño Lucas
